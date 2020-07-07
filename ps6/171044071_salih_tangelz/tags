@@ -1,0 +1,14 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+CharPair	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^		CharPair(){$/;"	f	language:C++	class:CharPair
+CharPair	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^		CharPair(int sz){$/;"	f	language:C++	class:CharPair
+CharPair	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^		CharPair(int sz,int sz_2){$/;"	f	language:C++	class:CharPair
+CharPair	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^class CharPair$/;"	c	language:C++	file:
+first	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^		char first[100];$/;"	m	language:C++	class:CharPair	file:
+get	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^		int get()const{$/;"	f	language:C++	class:CharPair
+get_one	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^		char*   get_one(){$/;"	f	language:C++	class:CharPair
+get_two	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^		char*   get_two(){$/;"	f	language:C++	class:CharPair
+main	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^int main(){$/;"	f	language:C++
+operator []	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^	char & operator[](int index);$/;"	p	language:C++	class:CharPair	file:
+operator []	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^char& CharPair::operator[](int index)$/;"	f	language:C++	class:CharPair
+second	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^		char second[100];$/;"	m	language:C++	class:CharPair	file:
+size	/home/tangel/Desktop/C++/homeworks/ps6/171044071_salih_tangelz/2.cpp	/^		int size;$/;"	m	language:C++	class:CharPair	file:
