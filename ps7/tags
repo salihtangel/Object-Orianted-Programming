@@ -1,0 +1,28 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+a	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^		int a,b;$/;"	m	language:C++	class:Polynomial	file:
+b	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^		int a,b;$/;"	m	language:C++	class:Polynomial	file:
+classlist	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^		char **classlist=new char*[10];$/;"	m	language:C++	class:Student	file:
+fun_input	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^		void fun_input(int numClasses,string name,char **classlist);$/;"	p	language:C++	class:Student	file:
+fun_input	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^void Student::fun_input(int numClasses,string name,char **classlist){$/;"	f	language:C++	class:Student
+fun_ouput	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^		void fun_ouput(string name,char **classlist);$/;"	p	language:C++	class:Student	file:
+fun_reset	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^		void fun_reset(int numClasses,char**classlist){$/;"	f	language:C++	class:Student
+getX	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^		int getX()const { return x; }$/;"	f	language:C++	class:Polynomial
+get_classlist	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^		char **get_classlist(){$/;"	f	language:C++	class:Student
+get_name	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^		string get_name(){$/;"	f	language:C++	class:Student
+get_num	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^		int get_num(){$/;"	f	language:C++	class:Student
+main	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^int main(int argc, char *argv[])$/;"	f	language:C++
+main	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^int main() {$/;"	f	language:C++
+name	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^		string name;$/;"	m	language:C++	class:Student	file:
+numClasses	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^		int numClasses;$/;"	m	language:C++	class:Student	file:
+operator +	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^	Polynomial operator + (Polynomial const &obj) {$/;"	f	language:C++	class:Polynomial
+operator ==	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^	void operator == (Polynomial const &obj) {$/;"	f	language:C++	class:Polynomial
+pol	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^		char** pol = new char*[50];$/;"	m	language:C++	class:Polynomial	file:
+Polynomial	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^		Polynomial() {a = 10;b = 20;}$/;"	f	language:C++	class:Polynomial
+Polynomial	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^		Polynomial(const Polynomial& p2) {x = p2.x;}$/;"	f	language:C++	class:Polynomial
+Polynomial	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^		Polynomial(int a ,int b) {a = 10;b = 20;}$/;"	f	language:C++	class:Polynomial
+Polynomial	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^class Polynomial {$/;"	c	language:C++	file:
+set	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^		void set(int newnum,string newname,char **newlist){$/;"	f	language:C++	class:Student
+Student	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^		Student(string name,int numClasses){$/;"	f	language:C++	class:Student
+Student	/home/tangel/Desktop/C++/homeworks/ps7/2.cpp	/^class Student{$/;"	c	language:C++	file:
+x	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^		int x;$/;"	m	language:C++	class:Polynomial	file:
+~Polynomial	/home/tangel/Desktop/C++/homeworks/ps7/3.cpp	/^		~Polynomial();$/;"	p	language:C++	class:Polynomial	file:
