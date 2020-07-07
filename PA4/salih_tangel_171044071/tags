@@ -1,0 +1,31 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+Creature	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.cpp	/^Creature :: Creature():strength(10),hitpoints(10),type(0){$/;"	f	language:C++	class:Creature
+Creature	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.cpp	/^Creature :: Creature(int newType, int newStrength, int newHit){$/;"	f	language:C++	class:Creature
+Creature	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	Creature();$/;"	p	language:C++	class:Creature
+Creature	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	Creature(int newType, int newStrength, int newHit);$/;"	p	language:C++	class:Creature
+Creature	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^class Creature{$/;"	c	language:C++
+CREATURE_H	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	2;"	d	language:C++
+getDamage	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.cpp	/^int Creature :: getDamage(){$/;"	f	language:C++	class:Creature
+getDamage	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	int getDamage();$/;"	p	language:C++	class:Creature
+getDamage	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Human.cpp	/^int Human:: getDamage(){$/;"	f	language:C++	class:Human
+getSpecies	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.cpp	/^string Creature :: getSpecies(){$/;"	f	language:C++	class:Creature
+getSpecies	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	string	getSpecies();\/\/ a helper function which returns the creature type$/;"	p	language:C++	class:Creature
+getSpecies	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Human.cpp	/^string	Human::getSpecies(){$/;"	f	language:C++	class:Human
+get_hitpoints	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.cpp	/^	int Creature:: get_hitpoints()const {return hitpoints;}$/;"	f	language:C++	class:Creature
+get_hitpoints	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	int get_hitpoints()const;$/;"	p	language:C++	class:Creature
+get_strength	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.cpp	/^	int Creature:: get_strength()const {return strength;}$/;"	f	language:C++	class:Creature
+get_strength	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	int get_strength()const;$/;"	p	language:C++	class:Creature
+get_type	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.cpp	/^	int Creature:: get_type()const{return type;}$/;"	f	language:C++	class:Creature
+get_type	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	int get_type()const;$/;"	p	language:C++	class:Creature
+hitpoints	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	int hitpoints;$/;"	m	language:C++	class:Creature
+Human	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Human.cpp	/^Human::Human(){$/;"	f	language:C++	class:Human
+Human	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Human.cpp	/^Human::Human(int newType, int newStrength, int newHit){$/;"	f	language:C++	class:Human
+main	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/main.cpp	/^int main() {$/;"	f	language:C++
+set_hitpoints	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.cpp	/^	void Creature :: set_hitpoints(int one){ hitpoints=one;}$/;"	f	language:C++	class:Creature
+set_hitpoints	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	void set_hitpoints(const int hitpoints);$/;"	p	language:C++	class:Creature
+set_strength	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.cpp	/^	void Creature :: set_strength(int one){ strength=one;}$/;"	f	language:C++	class:Creature
+set_strength	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	void set_strength(const int newStrength);$/;"	p	language:C++	class:Creature
+set_type	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.cpp	/^	void Creature :: set_type(int one){ type=one;}$/;"	f	language:C++	class:Creature
+set_type	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	void set_type(const int newType);$/;"	p	language:C++	class:Creature
+strength	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	int strength;$/;"	m	language:C++	class:Creature
+type	/home/tangel/Desktop/C++/homeworks/PA4/salih_tangel_171044071/Creature.h	/^	int type;$/;"	m	language:C++	class:Creature

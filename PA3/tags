@@ -1,0 +1,63 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+blue	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	float blue;$/;"	m	language:C++	class:Image	file:
+blue	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	float blue;$/;"	m	language:C++	class:Image	file:
+columncount	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	int columncount;$/;"	m	language:C++	class:Image	file:
+columncount	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	int columncount;$/;"	m	language:C++	class:Image	file:
+filename	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	string filename;$/;"	m	language:C++	class:Image	file:
+filename	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	string filename;$/;"	m	language:C++	class:Image	file:
+fun_grayscale	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	void fun_grayscale();$/;"	p	language:C++	class:Image	file:
+fun_grayscale	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^void Image ::fun_grayscale() {$/;"	f	language:C++	class:Image
+fun_grayscale	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	void fun_grayscale();$/;"	p	language:C++	class:Image	file:
+fun_grayscale	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^void Image ::fun_grayscale() {$/;"	f	language:C++	class:Image
+fun_open	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	void fun_open();$/;"	p	language:C++	class:Image	file:
+fun_open	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^void	Image ::fun_open() {$/;"	f	language:C++	class:Image
+fun_open	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	void fun_open();$/;"	p	language:C++	class:Image	file:
+fun_open	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^void	Image ::fun_open() {$/;"	f	language:C++	class:Image
+fun_save	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	void fun_save();$/;"	p	language:C++	class:Image	file:
+fun_save	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^void Image ::fun_save() {$/;"	f	language:C++	class:Image
+fun_save	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	void fun_save();$/;"	p	language:C++	class:Image	file:
+fun_save	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^void Image ::fun_save() {$/;"	f	language:C++	class:Image
+get_blue	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	float get_blue()const { return blue; }$/;"	f	language:C++	class:Image
+get_blue	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	float get_blue()const { return blue; }$/;"	f	language:C++	class:Image
+get_columncount	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	int  get_columncount()const{return columncount;}$/;"	f	language:C++	class:Image
+get_columncount	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	int  get_columncount()const{return columncount;}$/;"	f	language:C++	class:Image
+get_filename	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	string get_filename()const{return filename;}$/;"	f	language:C++	class:Image
+get_filename	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	string get_filename()const{return filename;}$/;"	f	language:C++	class:Image
+get_green	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	float get_green()const { return green; }$/;"	f	language:C++	class:Image
+get_green	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	float get_green()const { return green; }$/;"	f	language:C++	class:Image
+get_red	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	float get_red()const { return red; }$/;"	f	language:C++	class:Image
+get_red	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	float get_red()const { return red; }$/;"	f	language:C++	class:Image
+get_RGB	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	int **get_RGB()const{return RGB;}$/;"	f	language:C++	class:Image
+get_RGB	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	int **get_RGB()const{return RGB;}$/;"	f	language:C++	class:Image
+get_rowcount	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	int  get_rowcount()const{return rowcount;}$/;"	f	language:C++	class:Image
+get_rowcount	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	int  get_rowcount()const{return rowcount;}$/;"	f	language:C++	class:Image
+green	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	float green;$/;"	m	language:C++	class:Image	file:
+green	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	float green;$/;"	m	language:C++	class:Image	file:
+Image	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	Image() {$/;"	f	language:C++	class:Image
+Image	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	Image(const Image &p2) {$/;"	f	language:C++	class:Image
+Image	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^class Image {$/;"	c	language:C++	file:
+Image	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	Image() {$/;"	f	language:C++	class:Image
+Image	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	Image(const Image &p2) {$/;"	f	language:C++	class:Image
+Image	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^class Image {$/;"	c	language:C++	file:
+imageformat	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	string imageformat;  \/\/ for a3$/;"	m	language:C++	class:Image	file:
+imageformat	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	string imageformat;  \/\/ for a3$/;"	m	language:C++	class:Image	file:
+main	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^int main() {$/;"	f	language:C++
+main	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^int main() {$/;"	f	language:C++
+maxcolorvalue	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	int maxcolorvalue;  \/\/ for 255$/;"	m	language:C++	class:Image	file:
+maxcolorvalue	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	int maxcolorvalue;  \/\/ for 255$/;"	m	language:C++	class:Image	file:
+operator +	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	friend Image  operator+(const Image &obj , const Image& obj2);$/;"	p	language:C++	class:Image	file:
+operator +	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^Image operator+(const Image &obj1,const Image& obj2) {$/;"	f	language:C++
+operator +	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	friend Image  operator+(const Image &obj , const Image& obj2);$/;"	p	language:C++	class:Image	file:
+operator +	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^Image operator+(const Image &obj1,const Image& obj2) {$/;"	f	language:C++
+operator =	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	void operator =(const Image &obj);\/\/NO NEEDED$/;"	p	language:C++	class:Image	file:
+operator =	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^void  Image::operator = (const Image &obj) {$/;"	f	language:C++	class:Image
+operator =	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	void operator =(const Image &obj);\/\/NO NEEDED$/;"	p	language:C++	class:Image	file:
+operator =	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^void  Image::operator = (const Image &obj) {$/;"	f	language:C++	class:Image
+red	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	float red;  \/\/ for float varibles$/;"	m	language:C++	class:Image	file:
+red	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	float red;  \/\/ for float varibles$/;"	m	language:C++	class:Image	file:
+RGB	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	int **RGB;$/;"	m	language:C++	class:Image	file:
+RGB	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	int **RGB;$/;"	m	language:C++	class:Image	file:
+rowcount	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	int rowcount;     \/\/ f\/or 4 3$/;"	m	language:C++	class:Image	file:
+rowcount	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	int rowcount;     \/\/ f\/or 4 3$/;"	m	language:C++	class:Image	file:
+~Image	/home/tangel/Desktop/C++/homeworks/PA3/salih_tangel_171044071.cpp	/^	~Image() {$/;"	f	language:C++	class:Image
+~Image	/home/tangel/Desktop/PA3/salih_tangel_171044071.cpp	/^	~Image() {$/;"	f	language:C++	class:Image
