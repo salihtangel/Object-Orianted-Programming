@@ -1,0 +1,8 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+f	/home/tangel/Desktop/C++/lab_4.cpp	/^double f(double kilometers,double liters){$/;"	f	language:C++
+fib	/home/tangel/Desktop/C++/lab_3.cpp	/^void fib(int f[], int N) {$/;"	f	language:C++
+fiboTriangle	/home/tangel/Desktop/C++/lab_3.cpp	/^void fiboTriangle(int n) {$/;"	f	language:C++
+gallon	/home/tangel/Desktop/C++/lab_4.cpp	/^const double gallon=0.264179;$/;"	v	language:C++
+main	/home/tangel/Desktop/C++/lab_2.cpp	/^int main(){$/;"	f	language:C++
+main	/home/tangel/Desktop/C++/lab_3.cpp	/^int main() {$/;"	f	language:C++
+main	/home/tangel/Desktop/C++/lab_4.cpp	/^int main(int argc, char *argv[])$/;"	f	language:C++
