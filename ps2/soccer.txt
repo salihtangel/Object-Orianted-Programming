@@ -1,0 +1,8 @@
+Ronaldo
+1000
+Messi
+800
+Pele
+12000
+Kaka
+1212

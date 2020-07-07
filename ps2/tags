@@ -1,0 +1,12 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+change	/home/tangel/Desktop/C++/lab2/1.cpp	/^void change(int&time1,int&time2){$/;"	f	language:C++
+convert	/home/tangel/Desktop/C++/lab2/2.cpp	/^double convert(double kPh);$/;"	p	language:C++	file:
+convert	/home/tangel/Desktop/C++/lab2/2.cpp	/^double convert(int paceMin,int paceSec);$/;"	p	language:C++	file:
+convert	/home/tangel/Desktop/C++/lab2/2.cpp	/^double convert(int paceMin,int paceSec){$/;"	f	language:C++
+converttoMph	/home/tangel/Desktop/C++/lab2/2.cpp	/^double converttoMph(double kPH){$/;"	f	language:C++
+getHighScore	/home/tangel/Desktop/C++/lab2/4.cpp	/^	void getHighScore(string&name,int &higscore){$/;"	f	language:C++
+main	/home/tangel/Desktop/C++/lab2/1.cpp	/^int main(int argc, char *argv[])$/;"	f	language:C++
+main	/home/tangel/Desktop/C++/lab2/2.cpp	/^int main(int argc, char *argv[])$/;"	f	language:C++
+main	/home/tangel/Desktop/C++/lab2/5.cpp	/^int main(int argc, char *argv[])$/;"	f	language:C++
+print_am	/home/tangel/Desktop/C++/lab2/1.cpp	/^void print_am(int &time1,int &time2){$/;"	f	language:C++
+print_pm	/home/tangel/Desktop/C++/lab2/1.cpp	/^void print_pm(int &time1,int&time2){$/;"	f	language:C++
