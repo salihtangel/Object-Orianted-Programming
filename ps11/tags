@@ -1,0 +1,92 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+add_node	/home/tangel/Desktop/ps11/3.cpp	/^	void add_node(int n) {$/;"	f	language:C++	class:linked_list
+Ant	/home/tangel/Desktop/ps11/1.cpp	/^	Ant();$/;"	p	language:C++	class:Ant	file:
+Ant	/home/tangel/Desktop/ps11/1.cpp	/^	Ant(World *world, int x, int y);$/;"	p	language:C++	class:Ant	file:
+Ant	/home/tangel/Desktop/ps11/1.cpp	/^Ant::Ant() : Organism() {}$/;"	f	language:C++	class:Ant
+Ant	/home/tangel/Desktop/ps11/1.cpp	/^Ant::Ant(World *world, int x, int y) : Organism(world, x, y) {}$/;"	f	language:C++	class:Ant
+Ant	/home/tangel/Desktop/ps11/1.cpp	/^class Ant : public Organism {$/;"	c	language:C++	file:
+ANT	/home/tangel/Desktop/ps11/1.cpp	/^const int ANT = 2;$/;"	v	language:C++
+ANTBREED	/home/tangel/Desktop/ps11/1.cpp	/^const int ANTBREED = 3;$/;"	v	language:C++
+breed	/home/tangel/Desktop/ps11/1.cpp	/^	virtual void breed() = 0;   \/\/ Whether or not to breed$/;"	p	language:C++	class:Organism	file:
+breed	/home/tangel/Desktop/ps11/1.cpp	/^	void breed();   \/\/ Must define this since virtual$/;"	p	language:C++	class:Ant	file:
+breed	/home/tangel/Desktop/ps11/1.cpp	/^	void breed();   \/\/ Must define this since virtual$/;"	p	language:C++	class:Doodlebug	file:
+breed	/home/tangel/Desktop/ps11/1.cpp	/^void Ant::breed() {$/;"	f	language:C++	class:Ant
+breed	/home/tangel/Desktop/ps11/1.cpp	/^void Doodlebug::breed() {$/;"	f	language:C++	class:Doodlebug
+breedTicks	/home/tangel/Desktop/ps11/1.cpp	/^	int breedTicks;  \/\/ Number of ticks since breeding$/;"	m	language:C++	class:Organism	file:
+checkForWin	/home/tangel/Desktop/ps11/2.cpp	/^bool checkForWin(int guess, int answer) {$/;"	f	language:C++
+ComputerPlayer	/home/tangel/Desktop/ps11/2.cpp	/^class ComputerPlayer:public Player{$/;"	c	language:C++	file:
+data	/home/tangel/Desktop/ps11/3.cpp	/^	int data;$/;"	m	language:C++	struct:node	file:
+Display	/home/tangel/Desktop/ps11/1.cpp	/^	void Display();$/;"	p	language:C++	class:World	file:
+Display	/home/tangel/Desktop/ps11/1.cpp	/^void World::Display() {$/;"	f	language:C++	class:World
+DOODLEBREED	/home/tangel/Desktop/ps11/1.cpp	/^const int DOODLEBREED = 8;$/;"	v	language:C++
+Doodlebug	/home/tangel/Desktop/ps11/1.cpp	/^	Doodlebug();$/;"	p	language:C++	class:Doodlebug	file:
+Doodlebug	/home/tangel/Desktop/ps11/1.cpp	/^	Doodlebug(World *world, int x, int y);$/;"	p	language:C++	class:Doodlebug	file:
+Doodlebug	/home/tangel/Desktop/ps11/1.cpp	/^class Doodlebug : public Organism {$/;"	c	language:C++	file:
+DOODLEBUG	/home/tangel/Desktop/ps11/1.cpp	/^const int DOODLEBUG = 1;$/;"	v	language:C++
+Doodlebug	/home/tangel/Desktop/ps11/1.cpp	/^Doodlebug::Doodlebug() : Organism() { starveTicks = 0; }$/;"	f	language:C++	class:Doodlebug
+Doodlebug	/home/tangel/Desktop/ps11/1.cpp	/^Doodlebug::Doodlebug(World *world, int x, int y) : Organism(world, x, y) {$/;"	f	language:C++	class:Doodlebug
+DOODLESTARVE	/home/tangel/Desktop/ps11/1.cpp	/^const int DOODLESTARVE = 3;$/;"	v	language:C++
+getAt	/home/tangel/Desktop/ps11/1.cpp	/^	Organism *getAt(int x, int y);$/;"	p	language:C++	class:World	file:
+getAt	/home/tangel/Desktop/ps11/1.cpp	/^Organism *World::getAt(int x, int y) {$/;"	f	language:C++	class:World
+getGuess	/home/tangel/Desktop/ps11/2.cpp	/^		int getGuess();$/;"	p	language:C++	class:ComputerPlayer	file:
+getGuess	/home/tangel/Desktop/ps11/2.cpp	/^		int getGuess();$/;"	p	language:C++	class:HumanPlayer	file:
+getGuess	/home/tangel/Desktop/ps11/2.cpp	/^		virtual	int  getGuess(){return 0;}$/;"	f	language:C++	class:Player
+getGuess	/home/tangel/Desktop/ps11/2.cpp	/^int ComputerPlayer::getGuess(){$/;"	f	language:C++	class:ComputerPlayer
+getGuess	/home/tangel/Desktop/ps11/2.cpp	/^int HumanPlayer::getGuess(){$/;"	f	language:C++	class:HumanPlayer
+getType	/home/tangel/Desktop/ps11/1.cpp	/^	int getType();  \/\/ Must define this since virtual$/;"	p	language:C++	class:Ant	file:
+getType	/home/tangel/Desktop/ps11/1.cpp	/^	int getType();  \/\/ Must define this since virtual$/;"	p	language:C++	class:Doodlebug	file:
+getType	/home/tangel/Desktop/ps11/1.cpp	/^	virtual int getType() = 0;  \/\/ Return if ant or doodlebug$/;"	p	language:C++	class:Organism	file:
+getType	/home/tangel/Desktop/ps11/1.cpp	/^int Ant::getType() { return ANT; }$/;"	f	language:C++	class:Ant
+getType	/home/tangel/Desktop/ps11/1.cpp	/^int Doodlebug::getType() { return DOODLEBUG; }$/;"	f	language:C++	class:Doodlebug
+get_head	/home/tangel/Desktop/ps11/3.cpp	/^	node *get_head(){return head;}$/;"	f	language:C++	class:linked_list
+grid	/home/tangel/Desktop/ps11/1.cpp	/^	Organism *grid[WORLDSIZE][WORLDSIZE];$/;"	m	language:C++	class:World	file:
+head	/home/tangel/Desktop/ps11/3.cpp	/^	node *head, *tail;$/;"	m	language:C++	class:linked_list	file:
+HumanPlayer	/home/tangel/Desktop/ps11/2.cpp	/^class HumanPlayer :public Player{$/;"	c	language:C++	file:
+INITIALANTS	/home/tangel/Desktop/ps11/1.cpp	/^const int INITIALANTS = 100;$/;"	v	language:C++
+INITIALBUGS	/home/tangel/Desktop/ps11/1.cpp	/^const int INITIALBUGS = 5;$/;"	v	language:C++
+linked_list	/home/tangel/Desktop/ps11/3.cpp	/^	linked_list() {$/;"	f	language:C++	class:linked_list
+linked_list	/home/tangel/Desktop/ps11/3.cpp	/^class linked_list {$/;"	c	language:C++	file:
+main	/home/tangel/Desktop/ps11/1.cpp	/^int main() {$/;"	f	language:C++
+main	/home/tangel/Desktop/ps11/2.cpp	/^int main(int argc, char *argv[])$/;"	f	language:C++
+main	/home/tangel/Desktop/ps11/3.cpp	/^int main() {$/;"	f	language:C++
+move	/home/tangel/Desktop/ps11/1.cpp	/^	virtual void move() = 0;    \/\/ Rules to move the critter$/;"	p	language:C++	class:Organism	file:
+move	/home/tangel/Desktop/ps11/1.cpp	/^	void move();    \/\/ Must define this since virtual$/;"	p	language:C++	class:Ant	file:
+move	/home/tangel/Desktop/ps11/1.cpp	/^	void move();    \/\/ Must define this since virtual$/;"	p	language:C++	class:Doodlebug	file:
+move	/home/tangel/Desktop/ps11/1.cpp	/^void Ant::move() {$/;"	f	language:C++	class:Ant
+move	/home/tangel/Desktop/ps11/1.cpp	/^void Doodlebug::move() {$/;"	f	language:C++	class:Doodlebug
+moved	/home/tangel/Desktop/ps11/1.cpp	/^	bool moved;      \/\/ Bool to indicate if moved this turn$/;"	m	language:C++	class:Organism	file:
+next	/home/tangel/Desktop/ps11/3.cpp	/^	node *next;$/;"	m	language:C++	struct:node	file:
+node	/home/tangel/Desktop/ps11/3.cpp	/^struct node {$/;"	s	language:C++	file:
+number	/home/tangel/Desktop/ps11/2.cpp	/^		int number;$/;"	m	language:C++	class:ComputerPlayer	file:
+number	/home/tangel/Desktop/ps11/2.cpp	/^		int number;$/;"	m	language:C++	class:HumanPlayer	file:
+Organism	/home/tangel/Desktop/ps11/1.cpp	/^	Organism();$/;"	p	language:C++	class:Organism	file:
+Organism	/home/tangel/Desktop/ps11/1.cpp	/^	Organism(World *world, int x, int y);$/;"	p	language:C++	class:Organism	file:
+Organism	/home/tangel/Desktop/ps11/1.cpp	/^class Organism {$/;"	c	language:C++	file:
+Organism	/home/tangel/Desktop/ps11/1.cpp	/^Organism::Organism() {$/;"	f	language:C++	class:Organism
+Organism	/home/tangel/Desktop/ps11/1.cpp	/^Organism::Organism(World *wrld, int x, int y) {$/;"	f	language:C++	class:Organism
+play	/home/tangel/Desktop/ps11/2.cpp	/^void play(Player &player1, Player &player2) {$/;"	f	language:C++
+Player	/home/tangel/Desktop/ps11/2.cpp	/^class Player{$/;"	c	language:C++	file:
+prev	/home/tangel/Desktop/ps11/3.cpp	/^	node *prev;\/\/we need prev for see when we changed after nodes$/;"	m	language:C++	struct:node	file:
+print	/home/tangel/Desktop/ps11/3.cpp	/^	void print(node *head){$/;"	f	language:C++	class:linked_list
+reverse	/home/tangel/Desktop/ps11/3.cpp	/^	void reverse(node * head){	\/\/call by referance$/;"	f	language:C++	class:linked_list
+setAt	/home/tangel/Desktop/ps11/1.cpp	/^	void setAt(int x, int y, Organism *org);$/;"	p	language:C++	class:World	file:
+setAt	/home/tangel/Desktop/ps11/1.cpp	/^void World::setAt(int x, int y, Organism *org) {$/;"	f	language:C++	class:World
+SimulateOneStep	/home/tangel/Desktop/ps11/1.cpp	/^	void SimulateOneStep();$/;"	p	language:C++	class:World	file:
+SimulateOneStep	/home/tangel/Desktop/ps11/1.cpp	/^void World::SimulateOneStep() {$/;"	f	language:C++	class:World
+starve	/home/tangel/Desktop/ps11/1.cpp	/^	bool starve()   \/\/ Return false, ant never starves$/;"	f	language:C++	class:Ant
+starve	/home/tangel/Desktop/ps11/1.cpp	/^	bool starve();  \/\/ Check if a doodlebug starves to death$/;"	p	language:C++	class:Doodlebug	file:
+starve	/home/tangel/Desktop/ps11/1.cpp	/^	virtual bool starve() = 0;  \/\/ Determine if organism starves$/;"	p	language:C++	class:Organism	file:
+starve	/home/tangel/Desktop/ps11/1.cpp	/^bool Doodlebug::starve() {$/;"	f	language:C++	class:Doodlebug
+starveTicks	/home/tangel/Desktop/ps11/1.cpp	/^	int starveTicks;  \/\/ Number of moves before starving$/;"	m	language:C++	class:Doodlebug	file:
+tail	/home/tangel/Desktop/ps11/3.cpp	/^	node *head, *tail;$/;"	m	language:C++	class:linked_list	file:
+world	/home/tangel/Desktop/ps11/1.cpp	/^	World *world;$/;"	m	language:C++	class:Organism	file:
+World	/home/tangel/Desktop/ps11/1.cpp	/^	World();$/;"	p	language:C++	class:World	file:
+World	/home/tangel/Desktop/ps11/1.cpp	/^class World {$/;"	c	language:C++	file:
+World	/home/tangel/Desktop/ps11/1.cpp	/^World::World() {$/;"	f	language:C++	class:World
+WORLDSIZE	/home/tangel/Desktop/ps11/1.cpp	/^const int WORLDSIZE = 20;$/;"	v	language:C++
+x	/home/tangel/Desktop/ps11/1.cpp	/^	int x, y;	\/\/ Position in the world$/;"	m	language:C++	class:Organism	file:
+y	/home/tangel/Desktop/ps11/1.cpp	/^	int x, y;	\/\/ Position in the world$/;"	m	language:C++	class:Organism	file:
+~Organism	/home/tangel/Desktop/ps11/1.cpp	/^	~Organism();$/;"	p	language:C++	class:Organism	file:
+~Organism	/home/tangel/Desktop/ps11/1.cpp	/^Organism::~Organism() {}$/;"	f	language:C++	class:Organism
+~World	/home/tangel/Desktop/ps11/1.cpp	/^	~World();$/;"	p	language:C++	class:World	file:
+~World	/home/tangel/Desktop/ps11/1.cpp	/^World::~World() {$/;"	f	language:C++	class:World
